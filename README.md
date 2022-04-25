@@ -28,5 +28,5 @@ Puedes contactarme via Correo a
 
 o via discord a 
  
- ![Image](src)Albertokey#1042
+ ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/discor.png)Albertokey#1042
 

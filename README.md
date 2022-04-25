@@ -1,13 +1,14 @@
 ## Bienvenido a mi pagina
 
-You can use the [editor on GitHub](https://github.com/JorgeValleC/JorgeValleC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Mis redes sociales [Facebook](www.facebook.com/Albertokey/)
+                   [Twitter](https://twitter.com/Albertokeyy)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Image](https://pbs.twimg.com/profile_images/1456276977581576193/3rHmmL_g_400x400.jpg)
+![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/ghubtest.png)
 ```markdown
 Syntax highlighted code block
 

@@ -2,7 +2,7 @@
 
 Mis redes sociales [Twitter](https://twitter.com/Albertokeyy)
 
-En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.***
+En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.*** :shipit:
 >Costos pueden variar dependiendo del pedido.
 ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/ghubtest.png)
 markdown
@@ -21,7 +21,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

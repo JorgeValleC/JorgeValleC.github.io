@@ -8,7 +8,7 @@ En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fi
 markdown
 Syntax highlighted code block
 
-![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/normal.jpg)
+
 ## Header 2
 ### Header 3
 

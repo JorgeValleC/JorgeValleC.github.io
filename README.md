@@ -9,11 +9,14 @@ En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fi
 
 ## Ejemplos de mi trabajo
 
-
+###Marin
 ![Image](https://pbs.twimg.com/media/FN3L5R3XIAILspk?format=jpg&name=large) 
-
-
-
+###Pvz
+![Image](https://pbs.twimg.com/media/EdL30WfVcAE2iS3?format=jpg&name=medium) 
+###Hoxworth
+![Image](https://pbs.twimg.com/media/FG_LAfBXEAUEcJD?format=jpg&name=4096x4096) 
+###Miss P.
+![Image](https://pbs.twimg.com/media/ECoJMV3U4AAXHnA?format=jpg&name=medium) 
 
 
 

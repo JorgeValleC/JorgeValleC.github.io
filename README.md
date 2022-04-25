@@ -4,7 +4,7 @@ Mis redes sociales [Twitter](https://twitter.com/Albertokeyy)
 
 En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.***
 ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/ghubtest.png)
-```markdown
+markdown
 Syntax highlighted code block
 
 ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/normal.jpg)

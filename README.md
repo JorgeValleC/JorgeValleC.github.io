@@ -8,17 +8,20 @@ En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fi
 
 
 ## Ejemplos de mi trabajo
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/HOXWORTH%20test.png) 
+![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/MarinKitawaBeserkArmor%20gthub%20test.png)
+![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/pvz%20gthub%20test.jpg)
+![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/RH%20again%20ghubtest.jpg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

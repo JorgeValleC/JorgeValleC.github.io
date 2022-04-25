@@ -3,17 +3,15 @@
 Mis redes sociales [Twitter](https://twitter.com/Albertokeyy)
 
 En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.*** 
->Costos pueden variar dependiendo del pedido.<
+>Costos pueden variar dependiendo del pedido.
 ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/ghubtest.png)
 
 
 ## Ejemplos de mi trabajo
 
 
-![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/HOXWORTH%20test.png) 
-![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/MarinKitawaBeserkArmor%20gthub%20test.png)
-![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/pvz%20gthub%20test.jpg)
-![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/RH%20again%20ghubtest.jpg)
+![Image](https://pbs.twimg.com/media/FN3L5R3XIAILspk?format=jpg&name=large) 
+
 
 
 

@@ -2,8 +2,8 @@
 
 Mis redes sociales [Twitter](https://twitter.com/Albertokeyy)
 
-En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.*** :shipit:
->Costos pueden variar dependiendo del pedido.
+En esta pagina se pueden ver ilustraciones y comisiones hechas por mi, con el fin de entretener o ***comisionarme un dibujo.*** 
+>Costos pueden variar dependiendo del pedido.<
 ![Image](https://raw.githubusercontent.com/JorgeValleC/JorgeValleC.github.io/main/ghubtest.png)
 
 
